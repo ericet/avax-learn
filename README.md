@@ -9,7 +9,9 @@ Datahub Link: https://datahub.figment.io/services/avalanche
 * node connect.js
 
 #2
+* mkdir credentials
 * node create_account.js
+* Get free testnet tokens: https://faucet.avax-test.network/ 
 
 #3
 * node query.js
